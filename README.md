@@ -15,3 +15,5 @@ It sends an HTTP GET request to the Agify API to predict the age based on a give
 The response is read from the input stream and stored as a JSON string.
 Basic string operations are used to manually parse the JSON data.
 Finally, the extracted values (name, age, and count) are displayed in a structured format.
+
+#OUTPUT : <img width="1481" height="1045" alt="Image" src="https://github.com/user-attachments/assets/6d309c50-6497-43f4-9c26-7fa1130f46c5" />
